@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f5960dd2e8bd2f04abbff9019c8b0223
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelController: {fileID: 9038422334821435351, guid: a9776ea82d738674ea53488ecb4c9b04, type: 3}
+  - fireController: {fileID: 847215771620556142, guid: f12c0172403b9754892e3d1bcfb3fbe9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
